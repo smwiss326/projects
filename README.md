@@ -2,9 +2,9 @@
 Python Skill-Sharpening
 =======
 
-=======
 
-##Table of Contents
+
+## Table of Contents
 
 - Numbers
 - Classic
@@ -20,7 +20,7 @@ Python Skill-Sharpening
 - Graphics and Multimedia
 - Security
 
-===
+=========
 
 Numbers
 ---------
