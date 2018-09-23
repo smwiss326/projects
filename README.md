@@ -6,19 +6,19 @@ Python Skill-Sharpening
 
 ##Table of Contents
 
--Numbers
--Classic
--[Graph]
--[Data Structures]
--[Text]
--[Networking]
--[Classes]
--[Threading]
--[Web]
--[Files]
--[Databases]
--[Graphics and Multimedia]
--[Security]
+- Numbers
+- Classic
+- Graph
+- Data Structures
+- Text
+- Networking
+- Classes
+- Threading
+- Web
+- Files
+- Databases
+- Graphics and Multimedia
+- Security
 
 ===
 
