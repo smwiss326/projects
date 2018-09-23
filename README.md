@@ -1,7 +1,7 @@
 # Language-Agnostic Projects in Python
 #### Python Skill-Sharpening
-=======
 
+---------
 
 
 ## Table of Contents
