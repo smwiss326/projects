@@ -1,5 +1,5 @@
 # Language-Agnostic Projects in Python
-Python Skill-Sharpening
+#### Python Skill-Sharpening
 =======
 
 
@@ -20,7 +20,7 @@ Python Skill-Sharpening
 - Graphics and Multimedia
 - Security
 
-=========
+---------
 
 Numbers
 ---------
