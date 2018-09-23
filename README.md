@@ -1,15 +1,13 @@
 # Language-Agnostic Projects in Python
-
-===
-
 Python Skill-Sharpening
+=======
 
-===
+=======
 
 ##Table of Contents
 
--[Numbers]
--[Classic]
+-Numbers
+-Classic
 -[Graph]
 -[Data Structures]
 -[Text]
