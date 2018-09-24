@@ -3,7 +3,6 @@ from math import factorial as fact
 
 gc().prec = 100
 
-
 def calcEuler(n):
     e = Dec(0)
     numerator = Dec(1)
