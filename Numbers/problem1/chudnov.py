@@ -12,7 +12,11 @@ def PI(n):
         pi += Dec(num)/Dec(denom)
     pi = pi * Dec(12)/Dec(640320**(Dec(1.5)))
     pi = 1/pi
-    print pi
+    return pi
+
+def main():
+    print PI(10)
+
 
 if __name__ == "__main__":
-    PI(100)
+    main()
